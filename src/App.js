@@ -12,6 +12,7 @@ function App() {
     // </div>
     <div className='App'>
       <Todo/>
+      <p>Hello</p>
     </div>
   );
 }
